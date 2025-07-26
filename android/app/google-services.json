@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "899352968207",
+    "firebase_url": "https://unified-complaint-system-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "unified-complaint-system-app",
+    "storage_bucket": "unified-complaint-system-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899352968207:android:2d0a0533d6243f794a777a",
+        "android_client_info": {
+          "package_name": "com.example.institute_unified_complaint_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC6_2G-bPayjDkp4NHAvG5firHwNSSYoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
