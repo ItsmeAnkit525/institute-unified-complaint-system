@@ -88,7 +88,7 @@ Before running this project, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/institute_unified_complaint_system.git
+git clone https://github.com/ItsmeAnkit525/institute_unified_complaint_system.git
 cd institute_unified_complaint_system
 ```
 
@@ -369,26 +369,15 @@ _Complaint tracking and status view_
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support & Issues
 
-- **Bug Reports**: [GitHub Issues](https://github.com/yourusername/institute_unified_complaint_system/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/institute_unified_complaint_system/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/institute_unified_complaint_system/wiki)
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Firebase for backend services
-- Material Design for UI guidelines
-- Contributors and testers
 
 ## 📞 Contact
 
 **Project Maintainer**: Ankit Agrawal
 
 - Email: ankitagrawalofficial525@gmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ankit-agrawal-59b97a257/)
-- GitHub: [@yourusername](https://github.com/ItsmeAnkit525)
+- LinkedIn: [Ankit Agrawal](https://www.linkedin.com/in/ankit-agrawal-59b97a257/)
+- GitHub: [@ItsmeAnkit525](https://github.com/ItsmeAnkit525)
 
 ---
 
